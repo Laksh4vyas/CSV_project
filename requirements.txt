@@ -1,6 +1,7 @@
 streamlit
 pandas
+numpy
 matplotlib
 seaborn
-# add any other libraries you use
-numpy
+scikit-learn
+xgboost
